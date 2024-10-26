@@ -1,3 +1,7 @@
+The [Paris Saclay GenAI-School](21 oct. to 25 oct.) (https://paris-genai-school.github.io/) aims to provide an overview of the latest advances in generative AI, covering theoretical foundations, methodologies, and practical industrial applications beyond NLP. The program will introduce fundamental methodological tools and presentations from experts across diverse scientific fields.
+
+This event is co-organized by Université Paris-Saclay and Institut Polytechnique de Paris and co-financed by the DIM AI4IDF.
+
 # Lectures 
 
 * [Xavier Alameda-Pineda](https://github.com/paris-genai-school/lectures/blob/main/PDF/23OCTGenAI-for_audio-visual%20processing_XavierAlamedaPineda.pdf) - Inria at University Grenoble Alpes
@@ -12,3 +16,16 @@
 * [Gaël Richard](https://www.telecom-paris.fr/gael-richard) - IPP/Télécom Paris 
 * [Yunhao (Robin) Tang](https://github.com/paris-genai-school/lectures/blob/main/PDF/22OCT_Reinforcement_learning_from_human_feedback_tutorial_Yunhao_Tang.pdf) - Meta GenAI London 
 * [Denis Trystam](https://github.com/paris-genai-school/lectures/blob/main/PDF/24Oct_IAimpactDenis_Trystram.pdf) - Grenoble INP 
+
+## Lab Session 
+
+* All lab sessions are available [here](https://github.com/paris-genai-school/lectures/tree/main/Lab_session) 
+
+## Scientific Committee
+   *  Msutapha Lebbah, Université Paris-Saclay
+   *  Stéphane Lathuilière, Institut Polytechnique de Paris
+   *  Michel Kieffer, Université Paris-Saclay
+
+## Local Arrangement
+  * Marie Laveau, Université Paris-Saclay
+  * Almira Musa, Université Paris-Saclay
