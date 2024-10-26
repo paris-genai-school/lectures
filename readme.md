@@ -1,4 +1,4 @@
-The [Paris Saclay GenAI-School](21 oct. to 25 oct.) (https://paris-genai-school.github.io/) aims to provide an overview of the latest advances in generative AI, covering theoretical foundations, methodologies, and practical industrial applications beyond NLP. The program will introduce fundamental methodological tools and presentations from experts across diverse scientific fields.
+The [Paris Saclay GenAI-School](https://paris-genai-school.github.io/) (21 Oct. to 25 Oct.)  aims to provide an overview of the latest advances in generative AI, covering theoretical foundations, methodologies, and practical industrial applications beyond NLP. The program will introduce fundamental methodological tools and presentations from experts across diverse scientific fields.
 
 This event is co-organized by Université Paris-Saclay and Institut Polytechnique de Paris and co-financed by the DIM AI4IDF.
 
