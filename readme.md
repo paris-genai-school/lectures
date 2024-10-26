@@ -9,6 +9,6 @@
 * Eric Moulines - Ecole Polytechnique* 
 * Claire Monteleoni - University of Colorado Boulder/INRIA 
 * Alasdair Newson - Sorbonne Université* 
-* Gaël Richard - IPP/Télécom Paris 
+* [Gaël Richard](https://www.telecom-paris.fr/gael-richard) - IPP/Télécom Paris 
 * Yunhao (Robin) Tang - Meta GenAI London 
 * Denis Trystam - Grenoble INP 
