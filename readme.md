@@ -13,7 +13,7 @@ This event is co-organized by Université Paris-Saclay and Institut Polytechniqu
 * [Eric Moulines](https://github.com/paris-genai-school/lectures/blob/main/PDF/21OCT_Score_based_denoising_diffusion_An_introduction_ERIC_Moulines.pdf) - Ecole Polytechnique* 
 * [Claire Monteleoni](https://www.colorado.edu/faculty/claire-monteleoni/) - University of Colorado Boulder/INRIA 
 * [Alasdair Newson](https://github.com/paris-genai-school/lectures/blob/main/PDF/21OCTgen_ai_genbasic_I_Alasdair_Newson.pdf) - Sorbonne Université* 
-* [Gaël Richard](https://www.telecom-paris.fr/gael-richard) - IPP/Télécom Paris 
+* [Gaël Richard](https://www.telecom-paris.fr/wp-content-EvDsK19/uploads/2020/01/audio-cross-modal-generative-AI.pdf) - IPP/Télécom Paris 
 * [Yunhao (Robin) Tang](https://github.com/paris-genai-school/lectures/blob/main/PDF/22OCT_Reinforcement_learning_from_human_feedback_tutorial_Yunhao_Tang.pdf) - Meta GenAI London 
 * [Denis Trystam](https://github.com/paris-genai-school/lectures/blob/main/PDF/24Oct_IAimpactDenis_Trystram.pdf) - Grenoble INP 
 
